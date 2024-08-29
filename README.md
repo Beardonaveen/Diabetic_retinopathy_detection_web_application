@@ -3,6 +3,7 @@ This project uses TensorFlow and Flask to create a web application that classifi
 Here's a sample README file for your project:
 
 ---
+#note:unzip the deploy.zip
 
 # Diabetic Retinopathy Detection
 
